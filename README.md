@@ -1,4 +1,4 @@
-# Some setup to do before starting up Git Course
+# Some setup to do before starting up Git Course gg
 
 ### 1. Installer Git 
 
